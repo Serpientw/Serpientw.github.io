@@ -1,13 +1,5 @@
-# Yushi Ye Academic Pages site
+# Yushi Ye Luka homepage
 
-This site is based on the public [Academic Pages](https://github.com/academicpages/academicpages.github.io) template.
+This site is based on the public [Luka Homepage Template](https://github.com/wzsyyh/luka-homepage-template).
 
-Content entry points:
-
-- `_config.yml`: site title, author profile, links, and GitHub Pages URL
-- `_pages/about.md`: homepage introduction and research interests
-- `_pages/experience.md`: research experience, education, honors, and service
-- `_pages/cv.md`: CV page and PDF link
-- `_publications/`: one Markdown file per publication
-- `files/Yushi-Ye-CV.pdf`: downloadable CV
-- `images/avatar-placeholder.svg`: temporary avatar placeholder, ready to replace with a photo
+The main content is in `index.html`. The profile photo is `assets/img/yushi-ye.jpg`; SJTU and Taobao logos are `assets/img/sjtu.svg` and `assets/img/taobao.svg`. The CV is at `assets/cv/Yushi-Ye-CV.pdf`.
